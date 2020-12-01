@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221142328796",
+    "firebase_url": "https://expo-mate-felipe.firebaseio.com",
+    "project_id": "expo-mate-felipe",
+    "storage_bucket": "expo-mate-felipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221142328796:android:010e91ffdba028a95ddb19",
+        "android_client_info": {
+          "package_name": "com.example.expo_mate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221142328796-c2897j33ua2h3bj8lu7171pnm51gcpuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUbvnMOl8KaCHAbP8McZOVSvx6Z8LlKzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221142328796-c2897j33ua2h3bj8lu7171pnm51gcpuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
